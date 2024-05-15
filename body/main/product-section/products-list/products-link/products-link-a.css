@@ -18,10 +18,10 @@
 }
 
 .products-link:nth-child(even) a::before{
-    background: url(/images/products/present_1.svg) no-repeat;
+    background: url(./images/products/present_1.svg) no-repeat;
 }
 
 .products-link:nth-child(odd) a::before{
-    background: url(/images/products/present_2.svg) no-repeat;
+    background: url(./images/products/present_2.svg) no-repeat;
 }
 
